@@ -11,8 +11,8 @@ github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "未成年人请向后转，少上网，多上学"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "这里不欢迎未成年人"
+sidebar-avatar: /Ind.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
