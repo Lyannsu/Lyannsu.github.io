@@ -96,11 +96,11 @@ service-worker: true
 
 
 
-# LOF
+# 
 friends: [
     {
-        title: "S_28243",
-        href: "https://nobdycres.lofter.com/"
+        title: "",
+        href: ""
     },{
         title: "",
         href: ""
